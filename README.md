@@ -17,5 +17,7 @@ Clients: Cool and useful analysis for life applications.
 [Clue](https://helloclue.com)
 
 ## References
+[Menstruation in Girls and Adolescents: Using the Menstrual Cycle as a Vital Sign](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2015/12/menstruation-in-girls-and-adolescents-using-the-menstrual-cycle-as-a-vital-sign)
+[How Your Menstrual Cycle Impacts Your Entire Body](https://blog.ouraring.com/your-menstrual-cycle/)
 [A Systematic Review and Meta-Analysis of Within-Person Changes in Cardiac Vagal Activity across the Menstrual Cycle: Implications for Female Health and Future Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6912442/)
 [Effect of Different Phases of Menstrual Cycle on Heart Rate Variability (HRV)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4625231/?fbclid=IwAR0tXSuVWVqSSgVW9DwloIUorwI17qesgi_8euMSJprbuCh8Crm5oRkh57A)
