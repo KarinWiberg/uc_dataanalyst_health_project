@@ -1,4 +1,7 @@
 # Woman's Health and Wearable Analytics
+## Objective
+- Would life style adaption to the menstrual (infradian rythm) would be benefital to overall health and performance?
+
 ## Data
 The data set is about 3 years health data, evenly distributed of all seasons, from the Oura ring. Further, the periods are tracked with the app Clue. The data belongs to a client of mine used anonymously with permission.
 
